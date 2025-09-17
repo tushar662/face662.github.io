@@ -46,7 +46,13 @@ Example .env:
 FIREBASE_KEY=<YOUR_FIREBASE_SERVICE_KEY_JSON>
 6. Run the Application
 python main.py
-
+Summary 📝
+a) This project showcases:
+b) Practical Python programming
+c) Firebase database integration
+d) Real-time data handling
+e) Secure management of credentials
+f) Modular code structure suitable for maintenance or upgrades
 
 
 

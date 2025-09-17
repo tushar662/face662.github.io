@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# IDE settings
+.idea/
+
+# Environment variables / secrets
+.env
+serviceaccountkey/
